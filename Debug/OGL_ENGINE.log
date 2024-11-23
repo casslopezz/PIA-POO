@@ -1,0 +1,131 @@
+﻿  glad.c
+  main.cpp
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\camera.h(84,1): warning C4305: 'argumento': truncamiento de 'double' a 'T'
+          with
+          [
+              T=float
+          ]
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\Billboard.h(34,26): warning C4244: '*=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\Billboard.h(35,26): warning C4244: '*=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\Billboard.h(96,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\Billboard.h(97,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\Objectives.h(4,13): warning C4081: se esperaba 'newline'; se encontró ';'
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\Plane.h(63,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\Plane.h(64,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\Plane.h(73,49): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\Plane.h(73,36): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\Plane.h(114,64): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\Plane.h(114,52): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\QuadTexture.h(61,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\QuadTexture.h(62,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\QuadTexture.h(71,49): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\QuadTexture.h(71,36): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\QuadTexture.h(112,64): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\QuadTexture.h(112,52): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\RigidModel.h(1,13): warning C4081: se esperaba 'newline'; se encontró ';'
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\Terrain.h(59,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\textrenderer.h(117,37): warning C4838: la conversión de 'FT_Pos' en 'unsigned int' requiere una conversión de restricción
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\variables.h(110,22): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(143,33): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(161,29): warning C4018: '<': no coinciden signed/unsigned
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(256,31): warning C4018: '<': no coinciden signed/unsigned
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(287,28): warning C4018: '<': no coinciden signed/unsigned
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(347,31): warning C4018: '<': no coinciden signed/unsigned
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(407,46): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(420,46): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(433,46): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(502,32): warning C4018: '<': no coinciden signed/unsigned
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(526,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(527,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(531,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(532,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(534,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(535,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(557,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(558,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(562,23): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(563,23): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(565,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(566,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(585,31): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(79,28): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(82,28): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(121,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(123,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(125,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(127,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(243,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(321,51): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(322,55): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(329,51): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(330,55): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(337,51): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(338,55): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(345,51): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(346,55): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(354,50): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(355,54): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(366,50): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(367,54): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(377,50): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(378,54): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(388,50): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(389,54): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  rbCollision.cpp
+  rbEnvironment.cpp
+  rbRigidBody.cpp
+  rbSolver.cpp
+  stb_image.cpp
+  Generando código...
+main.obj : error LNK2019: símbolo externo _glfwInit sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo _glfwTerminate sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo _glfwWindowHint sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo _glfwCreateWindow sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo _glfwWindowShouldClose sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo _glfwSetWindowShouldClose sin resolver al que se hace referencia en la función "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPAUGLFWwindow@@@Z)
+main.obj : error LNK2019: símbolo externo _glfwSetFramebufferSizeCallback sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo _glfwPollEvents sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo _glfwSetInputMode sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo _glfwGetKey sin resolver al que se hace referencia en la función "void __cdecl actionKeys(struct GLFWwindow *)" (?actionKeys@@YAXPAUGLFWwindow@@@Z)
+main.obj : error LNK2019: símbolo externo _glfwSetMouseButtonCallback sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo _glfwSetCursorPosCallback sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo _glfwSetScrollCallback sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo _glfwJoystickIsGamepad sin resolver al que se hace referencia en la función "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPAUGLFWwindow@@@Z)
+main.obj : error LNK2019: símbolo externo _glfwSetJoystickCallback sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo _glfwGetGamepadState sin resolver al que se hace referencia en la función "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPAUGLFWwindow@@@Z)
+main.obj : error LNK2019: símbolo externo _glfwGetTime sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo _glfwMakeContextCurrent sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo _glfwSwapBuffers sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo _glfwGetProcAddress sin resolver al que se hace referencia en la función _main
+main.obj : error LNK2019: símbolo externo "public: __thiscall Assimp::Importer::Importer(void)" (??0Importer@Assimp@@QAE@XZ) sin resolver al que se hace referencia en la función "private: void __thiscall Model::loadModel(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?loadModel@Model@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+main.obj : error LNK2019: símbolo externo "public: __thiscall Assimp::Importer::~Importer(void)" (??1Importer@Assimp@@QAE@XZ) sin resolver al que se hace referencia en la función "private: void __thiscall Model::loadModel(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?loadModel@Model@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+main.obj : error LNK2019: símbolo externo "public: struct aiScene const * __thiscall Assimp::Importer::ReadFile(char const *,unsigned int)" (?ReadFile@Importer@Assimp@@QAEPBUaiScene@@PBDI@Z) sin resolver al que se hace referencia en la función "public: struct aiScene const * __thiscall Assimp::Importer::ReadFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,unsigned int)" (?ReadFile@Importer@Assimp@@QAEPBUaiScene@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@I@Z)
+main.obj : error LNK2019: símbolo externo "public: char const * __thiscall Assimp::Importer::GetErrorString(void)const " (?GetErrorString@Importer@Assimp@@QBEPBDXZ) sin resolver al que se hace referencia en la función "private: void __thiscall Model::loadModel(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?loadModel@Model@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+main.obj : error LNK2019: símbolo externo _aiGetMaterialFloatArray sin resolver al que se hace referencia en la función _aiGetMaterialFloat
+main.obj : error LNK2019: símbolo externo _aiGetMaterialColor sin resolver al que se hace referencia en la función "public: enum aiReturn __thiscall aiMaterial::Get(char const *,unsigned int,unsigned int,struct aiColor3D &)const " (?Get@aiMaterial@@QBE?AW4aiReturn@@PBDIIAAUaiColor3D@@@Z)
+main.obj : error LNK2019: símbolo externo _aiGetMaterialTextureCount sin resolver al que se hace referencia en la función "public: unsigned int __thiscall aiMaterial::GetTextureCount(enum aiTextureType)const " (?GetTextureCount@aiMaterial@@QBEIW4aiTextureType@@@Z)
+main.obj : error LNK2019: símbolo externo _aiGetMaterialTexture sin resolver al que se hace referencia en la función "public: enum aiReturn __thiscall aiMaterial::GetTexture(enum aiTextureType,unsigned int,struct aiString *,enum aiTextureMapping *,unsigned int *,float *,enum aiTextureOp *,enum aiTextureMapMode *)const " (?GetTexture@aiMaterial@@QBE?AW4aiReturn@@W4aiTextureType@@IPAUaiString@@PAW4aiTextureMapping@@PAIPAMPAW4aiTextureOp@@PAW4aiTextureMapMode@@@Z)
+lib\glfw3.lib : warning LNK4272: el tipo de máquina de biblioteca 'x64' está en conflicto con el tipo de máquina de destino 'x86'
+lib\assimp-vc140-mt.lib : warning LNK4272: el tipo de máquina de biblioteca 'x64' está en conflicto con el tipo de máquina de destino 'x86'
+C:\Program Files\POO\OGL_TEMPLATE\OGL_ENGINE\Debug\OGL_ENGINE.exe : fatal error LNK1120: 28 externos sin resolver
